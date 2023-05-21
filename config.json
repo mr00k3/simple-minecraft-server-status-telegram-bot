@@ -1,0 +1,8 @@
+{
+    "apiToken": "Put here your telegram bot API token",
+    "serverIP": "Put here your server IP",
+    "serverPort": "Put here your server port",
+    "groupChatID": "Put here group chat ID",
+    "serverDownMessage": "Put here message to send on server down",
+    "checkInterval": 1
+  }
